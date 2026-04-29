@@ -1,0 +1,10 @@
+[project]
+name = "activity-timer"
+version = "0.1.0"
+description = "Pomodoro-style sit/stand activity timer"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pyqt6>=6.11.0",
+]
+
